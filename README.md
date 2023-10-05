@@ -11,9 +11,9 @@ bash npm start, will running the app in http://localhost:3000
 
 bash npm test
 
-## Endpoints doc
-# get API
+# Endpoints doc
+## get API
 $ curl --location 'http://localhost:3000/api/files'
 
-# post API
+## post API
 $ curl --location 'http://localhost:3000/api/users'
