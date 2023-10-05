@@ -6,7 +6,6 @@ $ npm install
 ## Running the app
 
 bash npm start
-
 running the app in http://localhost:3000
 
 ## Testing the app
