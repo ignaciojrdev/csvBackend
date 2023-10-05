@@ -1,13 +1,13 @@
-## Installation
+# Installation
 
 bash
 $ npm install
 
-## Running the app
+# Running the app
 
 bash npm start, will running the app in http://localhost:3000
 
-## Testing the app
+# Testing the app
 
 bash npm test
 
