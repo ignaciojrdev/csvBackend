@@ -13,7 +13,6 @@ bash npm test
 
 ## Endpoints doc
 
-bash
 # get version API
 $ curl --location 'http://localhost:3000/api/files'
 
